@@ -1,5 +1,5 @@
 Package: onlineFDR
-Version: 2.21.3
+Version: 2.22.0
 Date: 2026-10-26
 Title: Online Error Rate Control
 Authors@R: c(person(c("David", "S."), "Robertson", role = c("aut", "cre"),
